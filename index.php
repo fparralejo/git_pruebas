@@ -11,7 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "hola cara candao";
+        echo "hola cara candao 3";
+        
+        echo "hola cara candao 2";
+        
         ?>
     </body>
 </html>
