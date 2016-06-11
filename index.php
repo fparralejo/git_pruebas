@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         echo "hola cara candao";
+        
+        echo "otra rama";
         ?>
     </body>
 </html>
